@@ -1,0 +1,21 @@
+input_dir: Resources/
+output_dir: Resources/
+xcassets:
+  inputs:
+    - Assets/Images.xcassets
+    - Assets/Colors.xcassets
+  outputs:
+    templateName: swift5
+    params:
+       forceProvidesNamespaces: true
+       forceFileNameEnum: true
+       publicAccess: true
+    output: Assets/Assets.swift
+strings:
+  inputs:
+    - Strings/en.lproj/Localizable.strings
+  outputs:
+    templateName: structured-swift5
+    params:
+      publicAccess: true
+    output: Strings/Strings.swift

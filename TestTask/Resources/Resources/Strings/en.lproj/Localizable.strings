@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  Resources
+
+  Created by Anastasia Golts on 16.12.2022.
+  
+*/
+
+// MARK: - Main Screen
+
+"MainScreen.General.SeeMore" = "see more";
+
+"MainScreen.CityView.Placeholder" = "Lappeenranta";
+
+"MainScreen.SelectCategory.Title" = "Select Category";
+"MainScreen.SelectCategory.ViewAll" = "view all";
+"MainScreen.SelectCategory.Phones" = "Phones";
+"MainScreen.SelectCategory.Computer" = "Comuter";
+"MainScreen.SelectCategory.Health" = "Health";
+"MainScreen.SelectCategory.Books" = "Books";
+"MainScreen.SelectCategory.Tools" = "Tools";
+
+"MainScreen.SearchView.Placeholder" = "Search";
+
+"MainScreen.HotSales.Title" = "Hot Sales";
+"MainScreen.HotSales.BuyNow" = "Buy now!";
+"MainScreen.HotSales.New" = "New";
+
+"MainScreen.BestSeller.Title" = "Best Seller";
+
+"MainScreen.TabBar.Explorer" = "Explorer";
+
+"MainScreen.FilterView.FilterOptions" = "Filter options";
+"MainScreen.FilterView.Done" = "Done";
+"MainScreen.FilterView.Brand" = "Brand";
+"MainScreen.FilterView.Price" = "Price";
+"MainScreen.FilterView.Size" = "Size";
+
+"MainScreen.DropdownOptions.Brands.IPhone" = "iPhone";
+"MainScreen.DropdownOptions.Brands.Samsung" = "Samsung";
+"MainScreen.DropdownOptions.Brands.Xiaomi" = "Xiaomi";
+
+"MainScreen.DropdownOptions.Prices.0" = "0 - 1000";
+"MainScreen.DropdownOptions.Prices.1000" = "1000 - 3000";
+"MainScreen.DropdownOptions.Prices.3000" = "3000 - 5000";
+"MainScreen.DropdownOptions.Prices.5000" = "5000 - 7000";
+"MainScreen.DropdownOptions.Prices.7000" = "7000 - 10000";
+
+"MainScreen.DropdownOptions.Size.singleOption" = "4.5 to 5.5 inches";
+
+// MARK: - My Cart Screen
+
+"MyCartScreen.TotalDeliveryView.Total" = "Total";
+"MyCartScreen.TotalDeliveryView.Delivery" = "Delivery";
+
+"MyCartScreen.ButtonView.Checkout" = "Checkout";
+
+"MyCartScreen.MyCartTitleView.Title" = "My Cart";
+
+"MyCartScreen.NavigationBarView.Address" = "Add address";
+
+// Product Details Screen
+
+"ProductDetailsScreen.AddToCartButtonView.Title" = "Add to Cart";
+
+"ProductDetailsScreen.ProductNavigationBarView.Title" = "Product Details";
+
+"ProductDetailsScreen.ColorCapacityView.Title" = "Select color and capacity";
+
+"ProductDetailsScreen.InfoViewButton.Shop" = "Shop";
+"ProductDetailsScreen.InfoViewButton.Details" = "Details";
+"ProductDetailsScreen.InfoViewButton.Features" = "Features";
+
+// MARK: - Onboarding Screen
+
+"OnboardingScreen.StartButton.Title" = "Start Main Flow";
